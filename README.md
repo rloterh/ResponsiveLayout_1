@@ -1,2 +1,2 @@
-# ResponsiveLayout_1
-HTML/ CSS - Responsive Design Test Project 1
+# ResponsiveLayout_1 (Build in Progress!)
+HTML/ CSS - Responsive Design Test Project
